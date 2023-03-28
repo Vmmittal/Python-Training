@@ -27,6 +27,12 @@ print(list[5])
 print(list[-3])
 list[-1]="vm"
 print(list)
+list.append("cloudeq")
+print(list)
+list.insert(2,"python")
+print(list)
+list.pop(2)
+print(list)
 
 '''Tuple Example'''
 tuple=(2,3,2,4,55,66.8,76,'vipul')
