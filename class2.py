@@ -15,7 +15,7 @@ print(1 in set1)
 
 set2={2,33,44,"vm",75}
 # set2.remove(50)
-set2.remove(33)
+# set2.remove(33)
 print(set2)
 
 # set2.discard(50)
