@@ -4,6 +4,10 @@ print("\nAssignment 5\n")
 #JSON module..................Dump() method is used to convert an object into pyhton strings. To do so,  we need to import JSON module first
 
 import json
+import random
+
+print(random.randint(1,10))  # To get random integer we use randint() method from random module
+
 
 mylist=[1,2,3,4,"vm",54]   #Python List object
 print(type(mylist))
